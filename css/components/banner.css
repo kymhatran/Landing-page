@@ -1,0 +1,32 @@
+.banner {
+  background-image: url("../../images/background.png");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.container{
+  width:900px;
+  margin: auto;
+}
+.container h1{
+  color:white;
+  font-weight:bold;
+  font-family:poppins;
+}
+.container p{
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
+
+.btn-primary {
+  display: inline-block;
+  border-radius: 50px;
+  padding: 16px 36px;
+  background-color: #1EDD88;
+  color:white;
+}
+.btn-primary a {
+  text-decoration:none;
+}
